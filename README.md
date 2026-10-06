@@ -23,4 +23,5 @@ Versions Included :
 -----------------------------
 27.11 - Chapter 4 Season OG
 -----------------------------
-28.30 - Chapter 5 Season !
+28.30 - Chapter 5 Season 1
+-----------------------------
